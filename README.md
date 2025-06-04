@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malehek
 
-I'm a passionate learner and aspiring developer with a focus on web development and open-source projects. As a refugee and a self-taught coder, I'm driven by the power of technology to change lives and create opportunities.
+I'm a passionate learner and aspiring developer with a focus on web development and open-source projects. I'm driven by the power of technology to change lives and create opportunities.
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript
