@@ -10,6 +10,7 @@ I'm a passionate and aspiring developer with a focus on web development and open
 ## 💼 Projects
 Here are some projects I've worked on:
 
+- 🧠 [MindCare Bot](https://mindcare-bot.vercel.app/) – A supportive mental health chatbot designed to offer compassionate conversation, emotional check-ins, and a safe space to talk, anytime, anywhere.
 - 🔗 [Covid 19 Data Tracker](https://github.com/Malehek/COVID-19-Global-Data-Tracker.git) – A data analysis project built in Jupyter Notebook that tracks and visualizes global COVID-19 cases using Python libraries like Pandas, Matplotlib, and Plotly.   
 - 💡 [Distance Converter](https://github.com/Malehek/miles-kilometer-converter.git) –  A user-friendly tool that converts distances between kilometers and miles. Built with HTML, CSS, and JavaScript. 
 - 🚀 [Calculator](https://github.com/malehek/MyFirstProject) – A simple web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division). Built using HTML, CSS, and JavaScript to practice DOM manipulation and user interaction.
